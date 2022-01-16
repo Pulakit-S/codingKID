@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+p{
+    font-size: 50px;
+}
+
+h1{
+    font-size: 100px;
+}
+
+.links{
+    font-size: 25px;
+}
+
+#feed{
+    font-size: 25px;
+}
+
+#feedb{
+    font-size: 30px;
+    color: brown;
+}
+
+#emoji{
+    font-size: 30px;
+}
